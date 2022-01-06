@@ -1,6 +1,6 @@
 # PathFindPy
 
-Hi! Please enjoy looking over my submission for your technical test. 
+Please enjoy looking over my submission for your technical test. 
 
 I have attempted to complete my implementation with my best understanding of object-oriented programming, SOLID principles (as far as the assignment reasonably allows), and unit testing (using the built-in `unittest` Python module) which I would include if I were programming in a test-driven manner.
 
