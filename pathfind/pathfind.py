@@ -12,7 +12,7 @@ class Node():
     pos : list
         [x, y] co-ordinates of the node.
     parent : Node
-        The previous node on the shortest path to this node.
+        The previous node on a shortest path to this node.
 
     Properties:
     -----------
@@ -51,7 +51,7 @@ class GridMap():
     Params:
     -------
     A : list
-        A 2D list representing a grid. 1 = traversable, 0 = untraversable
+        A 2D array representing a grid. 1 = traversable, 0 = untraversable
 
     Properties:
     -----------
