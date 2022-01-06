@@ -10,7 +10,7 @@ In terms of testing, there are many, many test cases I would realistically test 
 
 ## Running tests
 
-Running `test.py` from the root directory should run the unit tests contained in `test/test_pathfind.py`. If not, running `test/test_pathfind.py` directly will do the trick.
+Run `python -m unittest discover ./test -v` from inside the parent directory to execute all tests.
 
 ## Note on invalid inputs
 
