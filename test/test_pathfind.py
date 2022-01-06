@@ -94,10 +94,3 @@ class GridMap5x5Test(unittest.TestCase):
 
 		# Test output is correct for unreachable nodes
 		self.assertEqual(PathFind.find_shortest_path(self.bisected_gridmap, [0, 0], [5, 5]), "<node unreachable>")
-
-
-# # Run tests
-# def run():
-# 	unittest.main(verbosity=2)
-
-# run()
