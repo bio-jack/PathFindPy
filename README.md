@@ -2,11 +2,17 @@
 
 Please enjoy looking over my submission for your technical test. 
 
-I have attempted to complete my implementation with my best understanding of object-oriented programming, SOLID principles, and unit testing (using the built-in `unittest` Python module).
+I have attempted to complete my implementation with my best understanding of:
 
-The code implementing classes for objects of type `Node`, `GridMap`, and `PathFind` are contained in `pathfind/pathfind.py`. The pathfinding algorithm `find_shortest_path` contained in the `PathFind` class is based on the A* pathfinding algorithm.
+* OOP 
+* SOLID principles 
+* Unit testing (using the built-in `unittest` Python module).
 
-In terms of testing, there are many, many test cases I would realistically test for, but I thought writing them all out was probably not really what you're looking for me to do, so I've included some examples of test cases (see **Test Cases** below) I would also implement in order to cover all my bases.
+The code implementing classes for objects of type `Node`, `GridMap`, and `PathFind` are contained in `pathfind/pathfind.py`. 
+
+The pathfinding algorithm `find_shortest_path` contained in the `PathFind` class is based on the A* pathfinding algorithm.
+
+There are many, many test cases I would realistically test for, but writing all of them out is probably not what you're expecting, so I've included some examples of test cases ***below*** which I would also implement in reality.
 
 ## Running tests
 
