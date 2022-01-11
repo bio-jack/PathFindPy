@@ -1,8 +1,8 @@
 # PathFindPy
 
-Please enjoy looking over my submission for your technical test. 
+Submission for technical test.
 
-I have attempted to complete my implementation with my best understanding of:
+Implementation ccompleted with my best understanding of:
 
 * OOP 
 * SOLID principles 
@@ -12,7 +12,7 @@ The code implementing classes for objects of type `Node`, `GridMap`, and `PathFi
 
 The pathfinding algorithm `find_shortest_path` contained in the `PathFind` class is based on the A* pathfinding algorithm.
 
-There are many, many test cases I would realistically test for, but writing all of them out is probably not what you're expecting, so I've included some examples of test cases ***below*** which I would also implement in reality.
+There are many, many test cases I would realistically test for, but writing all of them out is probably not what is expected for the technical test, so I've included some examples of test cases ***below*** which I would also implement in reality.
 
 ## Running tests
 
@@ -20,7 +20,7 @@ Run `python -m unittest discover ./test -v` from inside the parent directory to 
 
 ## Note on invalid inputs
 
-I wasn't sure whether to handle the cases in which users input invalid input for the grid- in a proper scenario I obviously would, but I didn't want to overdo it for the purpose of the assignment. Just wanted to make it clear that I would when designing a system in a work setting.
+I wasn't sure whether to handle the cases in which users input invalid input for the grid- in a proper scenario I obviously would, but I didn't want to overdo it for the purpose of the assignment. Just wanted to make it clear that I would when designing a system in an industry setting.
 
 ## Additional test cases
 
