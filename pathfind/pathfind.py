@@ -158,7 +158,7 @@ class PathFind():
         --------
 
         shortest_distance: int
-            The shortest distance from P to Q.
+            The shortest distance from P to Q. Returns -1 if node is unreachable.
 
         """
         # Check source and target are valid
@@ -228,4 +228,4 @@ class PathFind():
                     node.parent = current
 
         # If loop exits, target is unreachable
-        return "<node unreachable>"
+        return -1
